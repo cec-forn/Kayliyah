@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kayliyah aka Cécilia Fornès-Guechi
+- 👋 Hi, I’m @cec-forn aka Cécilia Fornès-Guechi
 - 👀 I’m interested in coding, digital painting, drawing, reading, listening to music, playing video games and writing stories
 - 🌱 I’m currently learning React
 - 📫 How to reach me : cec.forn@proton.me
